@@ -9,3 +9,7 @@ function Maze(width, height) {
   this.endX = null;
   this.endY = null;
 }
+
+Maze.prototype.setStart = function() {
+  
+}
